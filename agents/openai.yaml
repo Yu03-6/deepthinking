@@ -1,0 +1,6 @@
+interface:
+  display_name: "deepthinking"
+  short_description: "检索可靠资料，深入理解原理与边界，通过知识关联和思考引导促进学习迁移"
+  default_prompt: "请使用 $deepthinking 帮助我学习这个问题：先查证可靠资料，再解释原理、适用边界，并提供适量的关联知识和思考引导。"
+policy:
+  allow_implicit_invocation: false
